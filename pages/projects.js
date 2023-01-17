@@ -11,8 +11,8 @@ export default function Projects({projects}) {
         <Layout>
             <div className="flex flex-col items-center justify-center min-h-screen mb-10 px-6">
                 <Head>
-                    <title>CODEEP, 시간 날리기 전문가의 코딩 로그</title>
-                    <meta name="description" content="코딩일지" />
+                    <title>CODEEP | 프로젝트</title>
+                    <meta name="코딩일지" content="코딩일지" />
                     <link rel="ion" href="/favicon.ico" />
                 </Head>
 

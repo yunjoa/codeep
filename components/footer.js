@@ -8,8 +8,8 @@ export default function Footer (){
             <Link href="./" className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                 <span className="ml-3 text-xl">CODEEP</span>
             </Link>
-            <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2023 Tailblocks —
-                <a href="https://www.instagram.com/yun_joayo/" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@시간날리기전문가</a>
+            <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2023 Coding Log, CODEEP —
+                <a href="https://www.instagram.com/yun_joayo/" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank">@yun_joayo</a>
             </p>
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                 <a className="ml-3 text-gray-500">
