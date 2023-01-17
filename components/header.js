@@ -20,6 +20,7 @@ export default function Header (){
                 </Link>
                 <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
                     <Link className="mr-5 hover:text-gray-900" href="/projects">프로젝트</Link>
+                    <Link className="mr-5 hover:text-gray-900" href="/projectss">프로젝트2</Link>
                     <Link className="mr-5 hover:text-gray-900" href="/learning">러닝로그</Link> 
                     <Link className="mr-5 hover:text-gray-900" href="/errors">에러로그</Link> 
                     <Link className="mr-5 hover:text-gray-900" href="/pins">핀</Link> 
